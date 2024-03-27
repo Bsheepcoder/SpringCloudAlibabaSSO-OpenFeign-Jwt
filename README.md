@@ -10,6 +10,7 @@
 | SpringBoot         | 2.6.15        | https://springdoc.cn/spring-boot/                            |
 | SpringCloud        | 2021.0.5      | https://spring.io/projects/spring-cloud                      |
 | SpringCloudAlibaba | 2021.0.6.0    | https://spring.io/projects/spring-cloud-alibaba              |
+| SpringGateway      | 3.1.1         | https://spring.io/projects/spring-cloud-gateway              |
 | Spring Security    | 2.6.15        | https://spring.io/projects/spring-cloud-security             |
 | OAuth2.0           | 2.2.5.RELEASE | https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html |
 | Nacos              | 2.2.0         | https://nacos.io/zh-cn/docs/what-is-nacos.html               |
