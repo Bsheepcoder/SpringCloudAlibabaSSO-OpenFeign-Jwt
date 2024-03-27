@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    nacos:
+      username: ${nacos.username}
+      password: ${nacos.password}
+      config:
+        server-addr: ${nacos.url}:8848
+        namespace: ${nacos.namespace}
+        group: DEFAULT_GROUP
+        prefix: auth-service
+        file-extension: yaml
+      discovery:
+        server-addr: ${nacos.url}:8848
+        namespace: ${nacos.namespace}
+
